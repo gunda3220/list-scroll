@@ -9,7 +9,8 @@ body {
 .container {
   position: relative;
   background: black;
-  width: 40%;
+  width: 30%;
+  min-width: 500px;
   background-repeat: repeat;
   height: 90vh;
   border: 2px solid black;
